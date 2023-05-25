@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: public
+    schema: public
+    tables:
+      - name: points_of_interest
+      - name: cities
+      - name: locations
